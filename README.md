@@ -5,7 +5,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim 
 
 Sou estudante da área de tecnologia e estou aprendendo conceitos de programação, desenvolvimento web e ferramentas digitais.  
 Meu objetivo é Evoluir na aréa de programação e talvez me tornar um programador.
